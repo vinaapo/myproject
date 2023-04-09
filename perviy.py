@@ -8,4 +8,4 @@ d = int(input('Тебе нравится GetHub?)):
     if d == 'Да and d == 'да':
         print('Ок)
     else
-        print'Пон')
+        print('Пон')
